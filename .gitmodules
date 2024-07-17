@@ -10,3 +10,6 @@
 [submodule "products-ms"]
 	path = products-ms
 	url = git@github.com:alcazararturo/products-ms.git
+[submodule "client-gatewey"]
+	path = client-gatewey
+	url = git@github.com:alcazararturo/client-gateway-ms.git
