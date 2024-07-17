@@ -10,3 +10,6 @@
 [submodule "auth-ms"]
 	path = auth-ms
 	url = git@github.com:alcazararturo/auth-ms.git
+[submodule "products-ms"]
+	path = products-ms
+	url = git@github.com:alcazararturo/products-ms.git
