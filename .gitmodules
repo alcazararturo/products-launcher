@@ -1,6 +1,3 @@
-[submodule "client-gatewey"]
-	path = client-gatewey
-	url = git@github.com:alcazararturo/client-gateway-ms.git
 [submodule "payments-ms"]
 	path = payments-ms
 	url = git@github.com:alcazararturo/payment-ms.git
